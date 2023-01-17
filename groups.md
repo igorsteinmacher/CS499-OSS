@@ -1,0 +1,50 @@
+# Groups
+
+These are the Groups for this class. Please group yourselves in teams of 2 or 3 students and add your names here:
+
+### Group 1 - GROUPNAME 
+* Student 1
+* Student 2
+* Student 3
+
+### Group 2 - GROUPNAME
+  
+### Group 3 - GROUPNAME
+
+### Group 4 - GROUPNAME
+
+### Group 5 - GROUPNAME
+
+### Group 6 - GROUPNAME
+
+### Group 7 - GROUPNAME
+
+### Group 8 - GROUPNAME
+
+### Group 9 - GROUPNAME
+
+### Group 10 - GROUPNAME
+
+### Group 11 - GROUPNAME
+
+### Group 12 - GROUPNAME
+
+### Group 13 - GROUPNAME
+
+### Group 14 - GROUPNAME
+
+### Group 15 - GROUPNAME
+
+### Group 16 - GROUPNAME
+
+### Group 17 - GROUPNAME
+
+### Group 18 - GROUPNAME
+
+### Group 19 - GROUPNAME
+
+### Group 20 - GROUPNAME
+
+### Group 21 - GROUPNAME
+
+### Group 22 - GROUPNAME
