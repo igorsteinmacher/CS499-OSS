@@ -12,7 +12,7 @@
 
 ## Groups
 
-Please, list your group in the [group page](groups.md). 
+Please, list your group in the [group page](groups.md). Be careful! If a conflict is flagged, create a pull request and wait.
 
 ## Reference
 
