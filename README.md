@@ -14,6 +14,7 @@
 
 **iClicker**: Attendance and in-class polls. [Access our course here](https://join.iclicker.com/FNIS)
 
+**[Course Schedule](outline.md)**
 
 ## Groups
 
