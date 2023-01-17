@@ -34,7 +34,7 @@ Other good references:
 ## Navigate the course
 * [Class schedule](outline.md)<br>
 * [Assignment list](assignments.md)<br>
-* [Papers for Essays (extras) and discussions](papers.md)<br>
+* [Papers for Essays/Presentations and extras](papers.md)<br>
 * [Topics for short talks](shorttalks.md)<br>
 * [Groups](groups.md) (List your group here)
 
