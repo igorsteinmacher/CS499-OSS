@@ -12,7 +12,7 @@
 
 ## Groups
 
-Please, list your group in the [group page](groups.md). Do it by [changing it](groups.md) and submitting a pull request.
+Please, list your group in the [group page](groups.md). 
 
 ## Reference
 
