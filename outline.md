@@ -18,9 +18,8 @@
 | Thu                           | 9/Mar    | Mid term exam                                                         | ---                                   |                                                             |
 | Tue                           | 14/Mar   | *NO CLASS-Spring Break*                                               | ---                                   |                                                             |
 | Thu                           | 16/Mar   | *NO CLASS-Spring Break*                                               | ---                                   |                                                             |
-| Tue                           | 21/Mar   | OSPOs                                                                 | P3. Present Papers<br>
-                                                                                                                     C0. Projects MUST be defined"         |
-| Thu                           | 23/Mar   | Commercial Open Source Software                                       |                                       |                                                             |
+| Tue                           | 21/Mar   | OSPOs                                                                 | P3. Present Papers<br>C0. Projects MUST be defined"       |
+| Thu                           | 23/Mar   | Commercial Open Source Software                                       |                                      |                                                            |
 | Tue                           | 28/Mar   | Checkpoint 1                                                          | A5.b. Domain Analysis (Part 2)        |                                                             |
 | Thu                           | 30/Mar   | Checkpoint 1                                                          |                                       |                                                             |
 | Tue                           | 4/Apr    | Diversity in Open Source                                              |                                       |                                                             |
