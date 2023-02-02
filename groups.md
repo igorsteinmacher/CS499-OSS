@@ -2,12 +2,15 @@
 
 These are the Groups for this class. Please group yourselves in teams of 2 or 3 students and add your names here:
 
-### Group 1 - GROUPNAME 
+### Group 1 - SICCS-Cybersec
+* Michael Logan Garrett
+* Mahafujul Alam
+* Saloni Jain
+
+### Group 2 - GROUPNAME
 * Student 1
 * Student 2
 * Student 3
-
-### Group 2 - GROUPNAME
   
 ### Group 3 - GROUPNAME
 
