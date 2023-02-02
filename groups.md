@@ -3,9 +3,8 @@
 These are the Groups for this class. Please group yourselves in teams of 2 or 3 students and add your names here:
 
 ### Group 1 - GROUPNAME 
-* Student 1
-* Student 2
-* Student 3
+* Igor
+* John
 
 ### Group 2 - GROUPNAME
   
