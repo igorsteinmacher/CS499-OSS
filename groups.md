@@ -7,12 +7,15 @@ These are the Groups for this class. Please group yourselves in teams of 2 or 3 
 * Mahafujul Alam
 * Saloni Jain
 
-### Group 2 - GROUPNAME
+### Group 2 - CS Grads
+* SaiSri Muttineni (sm4332)
+* Shubhangi Tandon (st2378)
+* Sree Sai Deekshitha Rajoli (sr2964)
+  
+### Group 3 - GROUPNAME
 * Student 1
 * Student 2
 * Student 3
-  
-### Group 3 - GROUPNAME
 
 ### Group 4 - GROUPNAME
 
