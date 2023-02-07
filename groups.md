@@ -17,7 +17,10 @@ These are the Groups for this class. Please group yourselves in teams of 2 or 3 
 * Student 2
 * Student 3
 
-### Group 4 - GROUPNAME
+### Group 4 - Open Source Silvaflux (OSSF)
+* Curtis McHone
+* Shayne Sellner
+* Richard McCue
 
 ### Group 5 - GROUPNAME
 
