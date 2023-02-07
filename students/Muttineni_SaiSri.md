@@ -9,6 +9,6 @@ The Cathedral and the Bazaar
 35
 ```
 ### Link to the paper online
-```
+
 http://www.catb.org/esr/writings/cathedral-bazaar/
-```
+
