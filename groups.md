@@ -27,8 +27,9 @@ These are the Groups for this class. Please group yourselves in teams of 2 or 3 
 * Srinivasa Sai Dikshtih Gona(sg2763)
 * Sree Vaibhav Ambadasugari (sa3256)
 * Venkata Nikhil Karnati (vk284)
-### Group 7 - GROUPNAME
-
+### Group 7 - Team What's Up Doc
+* Brandon James Shaffer
+* Eddie Lipan
 ### Group 8 - GROUPNAME
 
 ### Group 9 - GROUPNAME
