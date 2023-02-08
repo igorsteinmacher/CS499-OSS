@@ -9,11 +9,10 @@ These are the Groups for this class. Please group yourselves in teams of 2 or 3 
 
 ### Group 2 - CS Grads
 * SaiSri Muttineni (sm4332)
-* Shubhangi Tandon (st2378)
 * Sree Sai Deekshitha Rajoli (sr2964)
   
 ### Group 3 - GROUPNAME
-* Student 1
+* Ethan Green (edg86)
 * Student 2
 * Student 3
 
@@ -23,14 +22,22 @@ These are the Groups for this class. Please group yourselves in teams of 2 or 3 
 * Richard McCue
 
 ### Group 5 - GROUPNAME
+* Shubhangi Tandon(st2378)
+* Neha Nagaraja(nn454)
+* Shanti Swaroopa Hari Podhili(sh2828)
+
 ### Group 6 - GROUPNAME
 * Srinivasa Sai Dikshtih Gona(sg2763)
 * Sree Vaibhav Ambadasugari (sa3256)
 * Venkata Nikhil Karnati (vk284)
-### Group 7 - Team What's Up Doc
+
+### Group 7 - Group Seven
+* Jack Normand
+* David Hermann
+
+### Group 8 - Team What's Up Doc
 * Brandon James Shaffer
 * Eddie Lipan
-### Group 8 - GROUPNAME
 
 ### Group 9 - GROUPNAME
 
