@@ -1,0 +1,12 @@
+## Neha Nagaraja
+
+# Part 2: Using GitHub
+
+### Report on the last paper I've read is as follows;
+
+1. Title of the paper:  Fuzz Testing the Compiled Code in R Packages
+2. Authors: Akhila Chowdary Kolla, Dr. Toby Dylan Hocking, Dr. Alex groce
+3. Venue (Conference Name): The R conference
+4. Number of pages in the conference: 9
+5. Outcomes of the paper: RcppDeepState is a tool for detecting memory leaks and memory safety concerns in CRAN Rcpp packages. RcppDeepState was compared to other well-known fuzzers like as Afl and libFuzzer. DeepState's built-in brute-force fuzzer was discovered to have a high test generation rate. Fuzzers were employed to examine a vast number of packages, and each one discovered weaknesses in various packages and functionality. RcppDeepState throws a benign exception to warn the user when an invalid input is detected. In total, 1085 of CRAN's 2077 Rcpp packages were examined, with 6,860 methods fuzzed. In 965 of the operations, at least one Valgrind alert was generated.
+6. Link to the paper: [click here](https://agroce.github.io/issre21.pdf)
