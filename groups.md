@@ -12,7 +12,7 @@ These are the Groups for this class. Please group yourselves in teams of 2 or 3 
 * Sree Sai Deekshitha Rajoli (sr2964)
   
 ### Group 3 - GROUPNAME
-* Student 1
+* Ethan Green (edg86)
 * Student 2
 * Student 3
 
