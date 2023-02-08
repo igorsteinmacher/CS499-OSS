@@ -8,7 +8,8 @@
 > is created by thousands of people together through the open source "bazaar" development method.
 
 <details>
-  ### Title: 
+  
+  ### Title:
   The Cathedral and the Bazaar
   
   ### Venue: 
