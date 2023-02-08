@@ -2,7 +2,7 @@
 
 ### Venue (journal name/conference)
 ```
-Not founded 
+The venue was Not founded
 ```
 ### Number of pages
 ```
