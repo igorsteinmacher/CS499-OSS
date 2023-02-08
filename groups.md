@@ -31,13 +31,13 @@ These are the Groups for this class. Please group yourselves in teams of 2 or 3 
 * Sree Vaibhav Ambadasugari (sa3256)
 * Venkata Nikhil Karnati (vk284)
 
-
 ### Group 7 - Group Seven
 * Jack Normand
 * David Hermann
-* 
 
-### Group 8 - GROUPNAME
+### Group 8 - Team What's Up Doc
+* Brandon James Shaffer
+* Eddie Lipan
 
 ### Group 9 - GROUPNAME
 
