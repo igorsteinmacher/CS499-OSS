@@ -23,10 +23,16 @@ These are the Groups for this class. Please group yourselves in teams of 2 or 3 
 * Richard McCue
 
 ### Group 5 - GROUPNAME
-
 ### Group 6 - GROUPNAME
+* Srinivasa Sai Dikshtih Gona(sg2763)
+* Sree Vaibhav Ambadasugari (sa3256)
+* Venkata Nikhil Karnati (vk284)
 
-### Group 7 - GROUPNAME
+
+### Group 7 - Group Seven
+* Jack Normand
+* David Hermann
+* 
 
 ### Group 8 - GROUPNAME
 
