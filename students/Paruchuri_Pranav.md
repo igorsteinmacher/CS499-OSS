@@ -1,8 +1,8 @@
-###Title 
+### Title 
 The Cathedral and Bazaar
-###Venue:
+### Venue:
 The venue was not mentioned in amy link.
 ### Number of Pages:
 241pages
-###Link:
+### Link:
 http://www.catb.org/~esr/writings/cathedral-bazaar/
