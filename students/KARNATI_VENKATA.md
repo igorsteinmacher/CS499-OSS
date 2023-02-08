@@ -3,12 +3,13 @@
   
 
 ## Venue of the Journal/Conference:
-The Cathedral and the Bazaar
+
+I haven't found venue at any links.
 
 
 ## Number of pages: 
-35
+241
 
 ## Link to the paper:
-(http://www.catb.org/esr/writings/cathedral-bazaar/)
+http://www.catb.org/~esr/writings/cathedral-bazaar/
   
