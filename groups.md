@@ -40,7 +40,10 @@ These are the Groups for this class. Please group yourselves in teams of 2 or 3 
 * Brandon James Shaffer
 * Eddie Lipan
 
-### Group 9 - GROUPNAME
+### Group 9 - GROUP NINE
+* Lohit Chandu Golli
+* Sandeep Diviti
+* Rahul Inti
 
 ### Group 10 - GROUPNAME
 
