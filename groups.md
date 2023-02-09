@@ -13,7 +13,7 @@ These are the Groups for this class. Please group yourselves in teams of 2 or 3 
   
 ### Group 3 - GROUPNAME
 * Ethan Green (edg86)
-* Student 2
+* Akiel Aries (aba275)
 * Student 3
 
 ### Group 4 - Open Source Silvaflux (OSSF)
