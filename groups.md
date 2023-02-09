@@ -10,6 +10,7 @@ These are the Groups for this class. Please group yourselves in teams of 2 or 3 
 ### Group 2 - CS Grads
 * SaiSri Muttineni (sm4332)
 * Sree Sai Deekshitha Rajoli (sr2964)
+* Bharath Nalluri (bn448)
   
 ### Group 3 - GROUPNAME
 * Ethan Green (edg86)
