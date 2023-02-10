@@ -1,0 +1,4 @@
+- Revealed: more than 90% of rainforest carbon offsets by biggest certifier are worthless, analysis shows
+- The Guardian
+- 1 Page
+- [Link](https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe)
