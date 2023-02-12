@@ -51,6 +51,9 @@ These are the Groups for this class. Please group yourselves in teams of 2 or 3 
 * GROUP MEMBER 3
 
 ### Group 11 - GROUPNAME
+* Priyatam Reddy Teepireddy
+* Hemanthsai pamarthi
+* Prudhvi Kanneganti
 
 ### Group 12 - GROUPNAME
 
