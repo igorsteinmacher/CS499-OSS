@@ -56,6 +56,8 @@ These are the Groups for this class. Please group yourselves in teams of 2 or 3 
 * Prudhvi Kanneganti
 
 ### Group 12 - GROUPNAME
+* Ian Dennis
+* Vincent Machado
 
 ### Group 13 - GROUPNAME
 
