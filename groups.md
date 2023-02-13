@@ -59,7 +59,9 @@ These are the Groups for this class. Please group yourselves in teams of 2 or 3 
 * Ian Dennis
 * Vincent Machado
 
-### Group 13 - GROUPNAME
+### Group 13 - GROUP THIRTEEN
+* Richardo Chairez
+* Nhat Linh Nguyen
 
 ### Group 14 - GROUPNAME
 
