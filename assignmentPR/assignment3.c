@@ -22,10 +22,13 @@ int c, n, d;
 if(characteristic(number, c) && mantissa(number, n, d))
 {
     //do some math with c, n, and d
+ printf("Character: %d\n", c);
+ printf("Mantissa: %d\\%d\n", n, d);
 }
 else
 {
     //handle the error on input
+ printf("Float string error\n");
 }
 
 bool characteristic(char numString[], int& c) // leading digits before decimal if decimal exists
@@ -96,12 +99,33 @@ bool characteristic(char numString[], int& c) // leading digits before decimal i
   }
   else
   {
-    return false;
+    return false; // empty string
   }
 }
 bool mantissa(char numString[], int& numerator, int& denominator)
 {
+ int index;
+ int denomPower = 1;
+ 
+ if(numString[0] != '\0')
+ {
+  index = indexOf(numString, '.') + 1;
+  while(numString[index] != '\0')
+  {
+   if(numString[index] != ' ')
+   {
+    *numerator = numerator * power(10, denomPower) + numberString[index]; // previous digit is moved to next place up (1's 10's 100's), new digit placed in 1's place
+    denomPower++;
+   }
+   index++;
+  }
+  denominator = power(10, denomPower);
+  return true;
+ }
+ else
+ {
   return false;
+ }
 }
                   
 int power(int base, int exponent)
@@ -117,4 +141,18 @@ int power(int base, int exponent)
   }
   
   return base;
+}
+
+int indexOf(char string[], char search) // returns string index of desired character, returns -1 if not in string
+{
+ int index=0;
+ while(string[index] != '\0')
+ {
+  if(string[index] == search)
+  {
+   return index;
+  }
+  index++;
+ }
+ return -1;
 }
