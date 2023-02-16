@@ -5,10 +5,7 @@
 | ~~Tue~~                           | ~~24/Jan~~   | ~~Open Source: what it is and what it is not<br>History of Open Source [[Slides]](notes/Lecture_01.pdf)~~   |                                       | P1. [Read 2 papers for the next two weeks](assignments/P1.papers.md)                  |
 | ~~Thu~~                           | ~~26/Jan~~   | ~~Assignment A1: The Cathedral and The Bazaar Reading and summary~~          |                                       |                                                             |~~
 | ~~Tue~~                           | ~~31/Jan~~   | 	~~Git and GitHub [[Slides]](notes/Lecture_02.pdf)~~                      | ~~[A1. Cathedral and Bazaar](assignments/A1.cathbaz.md) -- **Jan/30**~~             | ~~[A2. Git/GitHub](assignments/A2.GitGitHub.md)~~                                  |
-| ~~Thu~~                           | ~~2/Feb~~    | ~~Git and GitHub 
-(continuing...)  [[Slides]](notes/Lecture_02.pdf)~~                                        
-| ~~ST1.[SHORT TEST] [Answers here](assignments/ST1.Answers.pdf)~~                     
-|                                                             |
+| ~~Thu~~                           | ~~2/Feb~~    | ~~Git and GitHub (continuing...)  [[Slides]](notes/Lecture_02.pdf)~~| ~~ST1.[SHORT TEST] [Answers here](assignments/ST1.Answers.pdf)~~                    |                                                             |
 | ~~Tue~~                           | ~~7/Feb~~    | ~~Git and GitHub / Code Review (notes/Lecture_03.pdf)~~                                          | ~~A2. Git/GitHub~~                 | [A3. Assignment: Code Review](assignments/A3.PRcodeReview.md)                                 |
 | ~~Thu~~                           | ~~9/Feb~~    |  ~~Testing/Continuous Integration [[Slides]](notes/Lecture_04.pdf)~~                                   |                    |                                                             |
 | ~~Tue~~                           | ~~14/Feb~~   | ~~INVITED TALK: Nick Vidal (OSI) [https://anniv.co]~~                                       | ~~P1. Present Papers~~<br>A3.CODE. Assignment Code Review (part 1) | [P2. Read 2 papers for the next two weeks](assignments/P2.Papers.md)                     |
