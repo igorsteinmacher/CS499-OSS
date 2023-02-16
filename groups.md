@@ -55,9 +55,10 @@ These are the Groups for this class. Please group yourselves in teams of 2 or 3 
 * Hemanthsai pamarthi
 * Prudhvi Kanneganti
 
-### Group 12 - GROUPNAME
+### Group 12 - DMW
 * Ian Dennis
 * Vincent Machado
+* Bronwyn Wedig
 
 ### Group 13 - GROUP THIRTEEN
 * Richardo Chairez
