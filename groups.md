@@ -48,7 +48,7 @@ These are the Groups for this class. Please group yourselves in teams of 2 or 3 
 ### Group 10 - GROUPNAME
 * Siddharth Subramanian
 * Kevin Imlay
-* GROUP MEMBER 3
+* Pranav Chandra Paruchuri
 
 ### Group 11 - GROUPNAME
 * Priyatam Reddy Teepireddy
