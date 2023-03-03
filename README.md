@@ -32,6 +32,14 @@ Other good references:
 * [Revolution OS](http://www.revolution-os.com/) "REVOLUTION OS tells the inside story of the hackers who rebelled against the proprietary software model and Microsoft to create GNU/Linux and the Open Source movement."
 * [The Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/)
 
+## Extra points available!
+Please check the following three opportunities for extra points (also available on BBLearn):
+* [Make a contribution to Wikipedia](assignments/extras/E1.wikipedia_contribution.md)
+* [Write a critical essay about a paper](assignments/extras/E2.Essay.md)
+* [Attend an invited talk at SICCS and write a summary](assignments/extras/E3.Talk.md)
+
+Each of them will be worth 3 extra points at the end of the semester.
+
 ## Navigate the course
 * [Class schedule](outline.md)<br>
 * [Assignment list](assignments.md)<br>
