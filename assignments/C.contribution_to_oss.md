@@ -41,11 +41,12 @@ At the end of the term, it is expected that you have one or more contributions s
 
 | Step                                                        | Expected deliverable                                         | Deadline  |
 | ----------------------------------------------------------- | ------------------------------------------------------------ | ------- |
-| Checkpoint 0                                                |||
-| Checkpoint 1                                                | ||
-| Checkpoint 2                                                | ||
-| Checkpoint 3                                                | Final presentation <br>*can be done during office hours* |   |
-| Contribution to Open Source ([Final report](#Final-Report)) | ||
+| Checkpoint 0                                                | The decision about project and plan on steps toward contribution. <br>**What to deliver:** Document (simple and short) justifying the choice, based on technical and community aspects of the project, and how it fits the group. <br>**How to deliver:** BBLearn C0 - Checkpoint 0 document| March 21|
+| Checkpoint 1                                                | 1. **Presentation:** with (i) Task(s) details + progress report; (ii) First impressions about the project and guidelines availability<br>2. **Document:** Architectural analysis (more details to come on this one)<br>**How to deliver:** BBLearn C1 - Checkpoint 1 (submit the presentation and the document)
+| Checkpoint 2                                                | Group presentation in class (Instructor + group). I will chat with the groups to see how things are going <br>**What to deliver:**  Informal Progress report (document), including code review performed by another group (This task may
+be done at some point BEFORE the deadline. If you are having trouble finding someone to review your code, let me know. <br>**How to deliver:** BBLearn C2 - Checkpoint 2 (Only an informal report mentioning what tasks were accomplished and how did the code review go) | April 18|
+||
+|Contribution to Open Source ([Final report](#Final-Report))| 1. **Document:** Summary of the contribution process (I recommend writing on-the-fly to avoid forgetting things). I want you to report the process from deciding the project until the last activity, mentioning the pros, cons, lessons learned, and how each step helped you/your group. It can be a diary-based report, in which you mention how things evolved weekly (for example); or it can be an activity-based report, in which each section is about one step of the process. <br>**Group + instructor presentation** Can be done in class or scheduling to meet in my office. It must happen BEFORE OR ON May 2nd, and as early as you are ready to deliver the report (I will provide a spreasheet so you can schedule your presentation) | May 2
 
 
 *IN CASE THE PROJECT IS HOSTED ON GITHUB*: The group will need to curate a fork of the project in which they will work. All commits need to become a Pull-request in this fork to train the students on the git use and also in the GitHub use. To do so, it is recommended that you create a central fork, and each student in the group create a "sub-fork". Whenever there is a pull request ready for reviewing, the instructor (me) will assign another group to proceed with the peer review (giving them a specific deadline to do so -- be prepared to do it within the week). After receiving the OK from the peer-reviewing group, you can go ahead and create a pull request against the other project.
