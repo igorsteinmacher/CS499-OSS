@@ -32,6 +32,19 @@ Prof Toby Hocking is the main contact point for this project. More information h
 * [actR](https://github.com/LinkedEarth/actR) The goal of actR – the Abrupt Change Toolkit in R – is to streamline abrupt change detection, significance testing, uncertainty quantification and visualization for paleogeoscientific datasets. This project is funded by the Belmont Forum as part of the "Abrupt Changes in Climate and Ecosystems - Data & e-Infrastructure (ACCEDE)" project, as part of the Science-driven e-Infrastructure Innovation program. The project is maintained at NAU by Dr. Nicholas P. McKay. 
      - **Skills**: R
 
+* [codappurpleairplugin](https://github.com/vverma9/codappurpleairplugin): The project analyses data from the publicly available air population sensors in the US obtained via purple air API and integrates them in the Common Online Data Analysis Platform (CODAP). This project is a collaboration betwenn Dr. Ashish Amresh and Dr. Vipin Verma (ASU) -- vverma9@asu.edu	
+  - What to expect: Small new features	
+  - **Skills**: Plain HTML, Javascript, REST APIs
+
+* [LTC-LMS](https://github.com/DTNetwork/ltc-lms/commits/master). It is a canvas/blackboard like web-interface designed to facilitate teaching. This project is a collaboration betwenn Dr. Ashish Amresh and Dr. Vipin Verma (ASU) -- vverma9@asu.edu	
+   - What to expect: Bug fixes, Small new features, Refactoring/improving the maintainability
+   - **Skills**: MEAN Stack, CentOS deployment
+
+* [VectorUnknown3D](https://github.com/DTNetwork/VectorUnknown3D/c) A game made in Unity to teach linear vector algebra.  This project is a collaboration betwenn Dr. Ashish Amresh and Dr. Vipin Verma (ASU) -- vverma9@asu.edu	
+    - What to expect: Bug fixes, Small new features, Refactoring/improving the maintainability
+
+   - **Skills**: Unity3D, C#	
+
 * [Jabref](http://www.github.com/Jabref/Jabref) - Citation Manager. Mainly developed in Java. JabRef people are enthusiastic about applying MVVM to their project. It is a good learning experience, and will certainly help the community. Use the wiki as a starting point for development. In addition there is an example on the JavaFX stuff regarding the MVVM pattern. Here [https://github.com/JabRef/jabref/wiki/Code---JavaFX]. 
     - **Skills**: Requires mostly Java know-how (JavaFX is a plus)
 
