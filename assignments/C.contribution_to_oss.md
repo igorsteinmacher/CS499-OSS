@@ -48,6 +48,9 @@ Prof Toby Hocking is the main contact point for this project. More information h
 * [Jabref](http://www.github.com/Jabref/Jabref) - Citation Manager. Mainly developed in Java. JabRef people are enthusiastic about applying MVVM to their project. It is a good learning experience, and will certainly help the community. Use the wiki as a starting point for development. In addition there is an example on the JavaFX stuff regarding the MVVM pattern. Here [https://github.com/JabRef/jabref/wiki/Code---JavaFX]. 
     - **Skills**: Requires mostly Java know-how (JavaFX is a plus)
 
+* [openMTPK](https://github.com/akielaries/openMTPK) - General Purpose Mathematics Package. Development library written in C++ with binding for Python aims to implement an array of mathematical topics into modular, reusable, and effecient functions (Calculus, LinAlg, Number Theory, Stats/ML & more). See the [TODO list](https://github.com/akielaries/openMTPK/issues?q=is%3Aissue+is%3Aopen+label%3ATODO) & the [contribution guideline](https://github.com/akielaries/openMTPK/blob/main/CONTRIBUTING.md) for help on getting started. This package is in the early stages of development and new ideas are heavily encouraged. 
+    - **Skills**: C++
+
 At the end of the term, it is expected that you have one or more contributions submitted, peer-evaluated (in classroom), submmited (and hopefully reviewed by project members, and accepted). Here are overall steps and dates (more details to come).
 
 **EVERYTHING PRODUCED DURING THE COURSE NEED TO BE PEER-REVIEWED BY ANOTHER GROUP BEFORE THE FINAL SUBMISSION**
