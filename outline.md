@@ -21,8 +21,8 @@
 | ~~Thu~~ | ~~9/Mar~~    | ~~SHORT TEST / Introducing the contribution assignment~~ | ~~A5.a. Domain Analysis (Part 1)  --- **due Mar 10**~~                                          |                                                             |
 | ~~Tue~~ | ~~14/Mar~~   | ~~*NO CLASS-Spring Break*~~  | --- |   |
 | ~~Thu~~ | ~~16/Mar~~   | ~~*NO CLASS-Spring Break*~~  | --- |   |
-| Tue | 21/Mar   | OSS governance / social infrastructure. [[Slides]](notes/Lecture_08.pdf) | P3. Present Papers<br>C0. Projects MUST be defined" |
-| Thu | 23/Mar   | Commercial Open Source Software      |     |   |
+| ~~Tue~~ | ~~21/Mar~~   | ~~OSS governance / social infrastructure. [[Slides]](notes/Lecture_08.pdf)~~ | P3. Present Papers<br>C0. Projects MUST be defined" |
+| ~~Thu~~ | ~~23/Mar~~   | ~~Commercial Open Source Software  [[Slides]](notes/Lecture_09.pdf)~~     |     |   |
 | Tue | 28/Mar   | Checkpoint 1  | A5.b. Domain Analysis (Part 2) |   |
 | Thu | 30/Mar   | Checkpoint 1  |   |   |
 | Tue | 4/Apr    | Diversity in Open Source |  |  |
