@@ -23,12 +23,12 @@
 | ~~Thu~~ | ~~16/Mar~~   | ~~*NO CLASS-Spring Break*~~  | --- |   |
 | ~~Tue~~ | ~~21/Mar~~   | ~~OSS governance / social infrastructure. [[Slides]](notes/Lecture_08.pdf)~~ | P3. Present Papers<br>C0. Projects MUST be defined" |
 | ~~Thu~~ | ~~23/Mar~~   | ~~Commercial Open Source Software  [[Slides]](notes/Lecture_09.pdf)~~     |     |   |
-| Tue | 28/Mar   | Checkpoint 1  | A5.b. Domain Analysis (Part 2) |   |
-| Thu | 30/Mar   | Checkpoint 1  |   |   |
-| Tue | 4/Apr    | Diversity in Open Source |  |  |
-| Thu | 6/Apr    | Code hour!  |  |  |
-| Tue | 11/Apr   | Students 15 min Presentations: Chosen topic (group)                   |                                       |                                                             |
-| Thu | 13/Apr   | Questions about Checkpoint 2                                          | C2. Checkpoint 2.                     |                                                             |
+| ~~Tue~~ | ~~28/Mar~~   | ~~Q & A~~  | A5.b. Domain Analysis (Part 2) |   |
+| ~~Thu~~ | ~~30/Mar~~   | ~~Checkpoint 1~~  |   |   |
+| Tue | 4/Apr    | Checkpoint 1 |  |  |
+| Thu | 6/Apr    | Diversity in OSS     |  |  |
+| Tue | 11/Apr   |  Questions about Checkpoint 2   |                                                 |                                                             |
+| Thu | 13/Apr   | Hot Topics in OSS                                         | C2. Checkpoint 2.                     |                                                             |
 | Tue | 18/Apr   |                                                                       |                                       |                                                             |
 | Thu | 20/Apr   | Invited Talk  (TBD).                                                  |                                       |                                                             |
 | Tue | 25/Apr   | Code hour!                                                            |                                       |                                                             |
