@@ -1,3 +1,9 @@
+**But, before:** The absence policy:
+* more than 3 unexcused absences: 5% penalty
+* more than 5 unexcused absences: 15% penalty
+* more than 7 unexcused absences: 25% penalty
+* more than 8 unexcused absences: 35% penalty
+
 | Assignment                                               | Planned Deliverable                                                                                                                                                                           | Weight  |
 |----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
 | Assignments                                              | There will be at least 5 different assignments related to the course. Details will be posted on the course website.                                                                           | 31.5% <br>(4.5% each: A1, A2, A3a, A3b, A4, A5a, A5b)   |
