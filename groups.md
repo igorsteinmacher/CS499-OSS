@@ -6,6 +6,7 @@ These are the Groups for this class. Please group yourselves in teams of 2 or 3 
 * Michael Logan Garrett
 * Mahafujul Alam
 * Saloni Jain
+* Bronwyn Wedig
 
 ### Group 2 - CS Grads
 * SaiSri Muttineni (sm4332)
@@ -58,7 +59,6 @@ These are the Groups for this class. Please group yourselves in teams of 2 or 3 
 ### Group 12 - DMW
 * Ian Dennis
 * Vincent Machado
-* Bronwyn Wedig
 
 ### Group 13 - GROUP THIRTEEN
 * Richardo Chairez
