@@ -1,8 +1,8 @@
-**But, before:** The absence policy:
-* more than 3 unexcused absences: 5% penalty
-* more than 5 unexcused absences: 15% penalty
-* more than 7 unexcused absences: 25% penalty
-* more than 8 unexcused absences: 35% penalty
+**But, before:** The absence policy (according to the syllabus):
+* 3 or more unexcused absences: 5% penalty
+* 5 or more  unexcused absences: 15% penalty
+* 7 or more  unexcused absences: 25% penalty
+* 8 or more  unexcused absences: 35% penalty
 
 | Assignment                                               | Planned Deliverable                                                                                                                                                                           | Weight  |
 |----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
