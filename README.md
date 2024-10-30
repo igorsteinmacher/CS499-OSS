@@ -4,9 +4,9 @@
 
 **Email**: Igor.Steinmacher@nau.edu
 
-**Class time**: TuTh 2:20 - 3:35 PM
+**Class time**: TBD
 
-**Office Hours**: TuTh 8:30 - 9:30 AM; Room 090-205. 
+**Office Hours**: TBD
 
 **MS Teams:** Please hangout, discuss, create channels for specific groups and issues. [Join here](https://teams.microsoft.com/l/team/19%3a9M4MEQum5Jn7JRaP_bv37MLubyzgPHHOCEjOvoUTU2g1%40thread.tacv2/conversations?groupId=300dcad9-a598-4dd2-ab9c-410917178553&tenantId=27d49e9f-89e1-4aa0-99a3-d35b57b2ba03) -- Use the code cg9mzqt to be automatically approved
 
