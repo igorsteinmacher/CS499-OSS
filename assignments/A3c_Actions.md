@@ -29,7 +29,8 @@ def divide (a,b):
 Inside the `tests` folder, create a Python test file named `test_calculator.py`
 
 You need to create two test functions with three cases in each of them. I provide the example for the test cases for the add function:
-```
+
+```python
 import unittest
 from src.calculator import add, subtract, divide 
 class TestCalculator(unittest.TestCase):
