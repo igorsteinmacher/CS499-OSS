@@ -17,3 +17,19 @@ My interests are software development, cloud technologies, and open source softw
 ## Course
 
 CS 599 - Open Source Software Development
+## Paper Report
+
+### Title
+The Cathedral and the Bazaar
+
+### Author
+Eric S. Raymond
+
+### Venue
+Course reading for Open Source Software Development.
+
+### Number of Pages
+4 pages
+
+Please connect to the Paper.
+https://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/
