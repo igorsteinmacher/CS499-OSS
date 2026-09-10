@@ -1,0 +1,12 @@
+Title: "Expectations, Outcomes, and Challenges of Modern Code Review"
+
+Venue : ICSE 2013
+
+Number of Pages: 10
+
+Link: https://sback.it/publications/icse2013.pdf
+
+Summary: The authors in this article explain how the main challenge in software code 
+reviews are understanding the context and purpose of code changes. It is highlighted that 
+reviewers often lack important context about new code, but time constraints push them to 
+provide feedback even when it may not be efficient.
